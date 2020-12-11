@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830455963752",
+    "firebase_url": "https://demostracion-7ef1c.firebaseio.com",
+    "project_id": "demostracion-7ef1c",
+    "storage_bucket": "demostracion-7ef1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830455963752:android:b93da84dd4948468c95bdd",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830455963752-gr68na0h671dsdr5jsqfkk1asrvheh19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0uQl3PxvITipC4m3ZqvjrMQP8rEWVD3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830455963752-gr68na0h671dsdr5jsqfkk1asrvheh19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
